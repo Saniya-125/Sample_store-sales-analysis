@@ -15,7 +15,7 @@ An interactive Power BI dashboard designed to analyze store sales performance an
 - Interactive filters and visualizations
 
 ## Dashboard Preview
-![Sample Store Sales Dashboard](screenshots/dashboard.png)
+![Sample Store Sales Dashboard](Screenshot 2026-10-29 214747.png)
 
 ## Key Insights
 Add the actual insights identified from your dashboard here.
